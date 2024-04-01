@@ -1,2 +1,22 @@
-# Fetch-ai-listen
-using Listennotes api key to play podcasts with the help of fetch ai libraries, made at IIT Delhi hackathon 2024
+## Installation (Python)
+
+Install μAgents for Python 3.8 to 3.12:
+
+```bash
+poetry install
+poetry shell
+```
+
+## Documentation
+
+Build and run the docs locally with:
+
+```bash
+mkdocs serve
+```
+
+Or go to the official docs site: https://docs.fetch.ai/uAgents.
+
+## Examples
+
+The [`examples`](https://github.com/fetchai/uAgents/tree/main/python/examples) folder contains several examples of how to create and run various types of agents.
